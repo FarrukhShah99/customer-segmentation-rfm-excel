@@ -155,7 +155,3 @@ To rebuild from the Kaggle CSV: Data > Get Data > From Text/CSV > set `Order.Dat
 Analysis workbook: use freely for portfolio and learning.  
 Data: Kaggle dataset license (see the dataset page).
 ```
-
-On GitHub: pencil → go to the end of section 3 → paste this → **Preview** (you should see Champions 706) → **Commit changes**.
-
-If `segment_matrix.png` or `rfm_scores.png` is broken, those files are missing or misnamed under `images/`.
