@@ -154,4 +154,3 @@ To rebuild from the Kaggle CSV: Data > Get Data > From Text/CSV > set `Order.Dat
 
 Analysis workbook: use freely for portfolio and learning.  
 Data: Kaggle dataset license (see the dataset page).
-```
