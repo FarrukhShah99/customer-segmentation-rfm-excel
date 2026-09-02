@@ -61,10 +61,8 @@ PivotTable on the Data Model with **Distinct Count** of `Order.ID` so Frequency 
 ```text
 Recency (days) = Analysis Date - Last Order Date
 Analysis Date = MAX(Order.Date) = 31 Dec 2014
+```
 
-Paste this **directly under** your Recency code block (after the closing ` ``` ` of section 3). Do not add extra backslashes.
-
-```markdown
 ### 4. Scores (quintiles)
 
 Breakpoints from `PERCENTILE.INC` (20 / 40 / 60 / 80):
