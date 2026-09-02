@@ -22,7 +22,7 @@ Segments are assigned with an R x F lookup matrix (INDEX/MATCH). Monetary is use
 
 ## Dataset
 
-[Global Superstore (Kaggle)](https://www.kaggle.com/datasets/abdelazizsami/global-superstore) - AbdelAziz version.
+[Global Superstore (Kaggle)](https://www.kaggle.com/code/abdelazizelserty/global-superstore-dataset) - AbdelAziz version.
 
 - One row = one order line (not one order)
 - Date range used for recency: through **31 Dec 2014**
